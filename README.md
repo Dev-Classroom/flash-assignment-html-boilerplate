@@ -2,7 +2,7 @@
 
 ![Unbreakable!](https://media.giphy.com/media/s6KzZwDzM6v5u/giphy.gif)
 
-## Project Overview
+## Assignment Overview
 
 For this first assignment, you're going to create some boilerplate HTML. You can reuse this later in the course, but we're primarily getting our feet wet by practicing using HTML tags.
 

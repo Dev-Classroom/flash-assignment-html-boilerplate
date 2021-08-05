@@ -12,7 +12,7 @@ A couple of suggestions exist below about easy-to-use online editors that don't 
 
 ## Deliverables 
 
- - [ ] A single HTMl document named index.html, shared from an online text editor <br />
+ - [ ] A single HTML document named index.html, shared from an online text editor <br />
  
 ## Tools and Resources
 - [Lesson 2.1 from DevClassroom](https://www.devclassroom.dev/lessons/html-basics)
